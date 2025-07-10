@@ -1,0 +1,21 @@
+100 rem programma 13 grafiek van de funktie r=k*cos(4*sin(2*p))
+110 print chr$(147)
+120 hires 0,1
+130 u=160:v=100:h=0.5:rd=~/180
+140 for k=20 to 100 step 10
+150 : for w=0 to 360 step 2
+160 :   p=w*rd:gosub 1000
+170 :   x=int(u+k*r*cos(p)+h)
+175 :   if p=0 then x1=x:y1=y:goto 210
+180 :   y=int(v-k*r*sin(p)+h)
+190 :   if p=0 then x1=x:y1=y:goto 210
+200 :   x2=x:y2=y
+210 :   line x1,y1,x2,y2,1
+220 :   x1=x2:y1=y2
+230 : next w
+240 next k
+250 get a$:if a$="" then 250
+260 end
+1000 r=cos(4*sin(2*p)):r=abs(r)
+1010 return
+
