@@ -15,7 +15,7 @@
 240 for n=1 to 2
 250 : read z$(n):l=len(z$(n))
 260 : for m=1 to l-1 step 2
-270 :   i=asc(mid$(zs(n),m,1))-64
+270 :   i=asc(mid$(z$(n),m,1))-64
 280 :   j=asc(mid$(z$(n),m+1,1))-64
 290 :   line x(i),y(i),x(j),y(j)
 300 : next m
