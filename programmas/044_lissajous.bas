@@ -11,7 +11,7 @@
 200 for w=0 to 360
 210 : t=w*rd:gosub 1000
 220 : x=int(u+x+h)
-230 : y=sint(v-y+h)
+230 : y=int(v-y+h)
 240 : if w=0 then x1=x:y1=y:goto 280
 250 : x2=x:y2=y
 260 : line x1,y1,x2,y2,1
