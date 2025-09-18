@@ -12,7 +12,7 @@
 210 for w=0 to 360 step om
 220 : for j=0 to 3
 230 :   w1=(w+j*120)*rd
-240 :   x=r*cos(w1):y=r*sin(wt)
+240 :   x=r*cos(w1):y=r*sin(w1)
 250 :   x(j)=int(u+x+c*y+h)
 260 :   y(j)=int(v-s*y+60+h)
 270 :   x(j+4)=x(j)
