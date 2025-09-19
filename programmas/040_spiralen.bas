@@ -1,6 +1,7 @@
 100 rem programma 16 spiralen
 110 print chr$(147)
 120 hires 0,1
+130 u=160:v=100:h=0.5:rd=~/180
 140 c=3
 150 for w=0 to 10000 step 3
 160 : p=w*rd:gosub 1000
