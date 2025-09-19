@@ -14,7 +14,7 @@
 230 for j=1 to n
 240 : xm=int(290*rnd(1)+30+h)
 250 : ym=int(60*rnd(1)+70+h)
-260 : w=*rnd(1)
+260 : w=~*rnd(1)
 270 : dx=30*cos(w):dy=30*sin(w)
 280 : x1=int(xm-dx+h):y1=int(ym+dy+h)
 290 : x2=int(xm+dx+h):y2=int(ym-dy+h)
