@@ -6,9 +6,9 @@
 150 : for w=0 to 360 step 2
 160 :   p=w*rd:gosub 1000
 170 :   x=int(u+k*r*cos(p)+h)
-175 :   if p=0 then x1=x:y1=y:goto 210
+175 :   if p=0 then x1=x:y1=y
 180 :   y=int(v-k*r*sin(p)+h)
-190 :   if p=0 then x1=x:y1=y:goto 210
+190 :   if p=0 then x1=x:y1=y
 200 :   x2=x:y2=y
 210 :   line x1,y1,x2,y2,1
 220 :   x1=x2:y1=y2
