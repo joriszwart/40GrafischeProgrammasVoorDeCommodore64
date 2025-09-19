@@ -8,7 +8,7 @@
 170 :   p=w*rd:r=k*(1+c*abs(sin(n*p)))
 180 :   x=int(u+r*cos(p)+h)
 190 :   y=int(v-r*sin(p)+h)
-200 :   if p=0 then x1=x:y1=y:g0to 240
+200 :   if p=0 then x1=x:y1=y:goto 240
 210 :   x2=x:y2=y
 220 :   line x1,y1,x2,y2,1
 230 :   x1=x2:y1=y2
