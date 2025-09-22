@@ -7,6 +7,8 @@ Leer programmeren met hoge resolutie graphics in BASIC.
 
 Marcel Sutter/Nok van Veen ISBN 90 6233 149 1
 
+![80 - mooie functie](screenshots/080.png)
+
 
 De scans van het boek staan in deze repository.
 Hiermee is een PDF gemaakt, die staat  [hier op Archive.org](https://archive.org/details/40-grafische-programmas-voor-de-commodore-64)
