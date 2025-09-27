@@ -7,6 +7,8 @@ Leer programmeren met hoge resolutie graphics in BASIC.
 
 Marcel Sutter/Nok van Veen ISBN 90 6233 149 1
 
+![80 - mooie functie](screenshots/080.png)
+
 
 De scans van het boek staan in deze repository.
 Hiermee is een PDF gemaakt, die staat  [hier op Archive.org](https://archive.org/details/40-grafische-programmas-voor-de-commodore-64)
@@ -16,7 +18,7 @@ Zelf doen
 ---------
 
 Om de programma's uit te voeren, heb je een *Commodore 64* of een emulator zoals
-*Vice* nodig. Voor het gemak, is er er een disk image
+*Vice* nodig. Voor het gemak, is er een disk image
 [40_grafische_programmas_voor_de_commodore_64.d64](disk/40_grafische_programmas_voor_de_commodore_64.d64) bijgeleverd.
 
 Deze kan je op een echte 5.25" SD/DD floppy schrijven of laden in Vice:
