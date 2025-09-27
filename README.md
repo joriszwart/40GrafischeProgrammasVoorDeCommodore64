@@ -18,7 +18,7 @@ Zelf doen
 ---------
 
 Om de programma's uit te voeren, heb je een *Commodore 64* of een emulator zoals
-*Vice* nodig. Voor het gemak, is er er een disk image
+*Vice* nodig. Voor het gemak, is er een disk image
 [40_grafische_programmas_voor_de_commodore_64.d64](disk/40_grafische_programmas_voor_de_commodore_64.d64) bijgeleverd.
 
 Deze kan je op een echte 5.25" SD/DD floppy schrijven of laden in Vice:
