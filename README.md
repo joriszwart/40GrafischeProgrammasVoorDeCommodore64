@@ -58,6 +58,8 @@ Aanschouw de pracht!
 Ten slotte
 ----------
 
+Het boek is een vertaling van [Programmieren mit hochauflösender Grafik](https://github.com/matozoid/ProgrammierenMitHochauflosenderGrafik).
+
 Volgens het boek komen de grafische routines uit het blad Commodore Computing ([oktober 1983](https://electronicsandbooks.com/edt/manual/Magazine/C/commodore%20computing%20international/Commodore_Computing_International_Vol_02-06_1983_Oct.pdf#page=21)).
 
 Mocht je typo's of fouten in de programmalistings ontdekken, laat het dan weten.
